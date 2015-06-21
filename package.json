@@ -1,0 +1,27 @@
+{
+  "name": "support-resistance-position",
+  "version": "0.0.1-beta.1",
+  "description": "Find stock support and resistance",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^1.0.0",
+    "cli-table-zh": "^0.3.1",
+    "iconv": "^2.1.8",
+    "nodegrass": "0.0.3",
+    "q": "^1.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "stock"
+  ],
+  "maintainers": [
+    {
+      "name": "ielgnaw",
+      "email": "wuji0223@gmail.com"
+    }
+  ],
+  "license": "ISC"
+}
